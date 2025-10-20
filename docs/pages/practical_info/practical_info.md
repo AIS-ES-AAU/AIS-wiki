@@ -1,7 +1,9 @@
 Here you can read practical info relevant for:
 
-- Onboarding of new staff
+- [Onboarding for new staff](onboarding.md)
+- [Information for PhD students](phd_students.md)
 - [How to print](printing.md)
-- Guide to ERP
-- Guide to CWT
 - [List of funding sources](funding.md)
+- Guide to ERP (TBD)
+- Guide to CWT (TBD)
+
